@@ -1,7 +1,13 @@
 .haiya{
    
-    padding: 20px 40px 20px 40px;
-    background-color: green;
+    padding: 15px 40px;
+    background-color:  hsl(183, 100%, 15%);
     color: white;
-    margin-top: 10px;
+    margin-top: 50%;
+    border-radius: 10px;
+    font-size: 20px;
+
 }
+/* .custom{
+    background-color: white;
+} */

@@ -1,9 +1,15 @@
 .btn-reset{
-    padding: 20px 100px;
+    padding: 10px 100px;
     font-size: 30px;
     font-weight: bold;
+    border-radius: 7px;
+    background-color: hsl(185, 41%, 84%);
+    color: hsl(183, 100%, 15%);
     
 }
 .container{
-    background-color: green;
+    background-color: hsl(183, 100%, 15%);
+}
+.btn-holder{
+    margin-top: 80px;
 }

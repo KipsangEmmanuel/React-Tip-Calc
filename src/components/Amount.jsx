@@ -9,7 +9,7 @@ const Amount = ({amount}) => {
             <p>/ person</p>
         </div>
         <div className="right">
-            $0.00
+           <h2> $0.00</h2>
         </div>
     </div>
   )

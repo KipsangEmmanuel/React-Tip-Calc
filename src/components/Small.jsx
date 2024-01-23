@@ -9,7 +9,7 @@ const Small = ({small}) => {
       <div className="container">
         <Amount />
         <Amount />
-        <div>
+        <div className="btn-holder">
            <button className="btn-reset">
             Reset
            </button>
@@ -19,4 +19,8 @@ const Small = ({small}) => {
   );
 };
 
+
 export default Small;
+
+
+

@@ -12,20 +12,18 @@ const Card = () => {
         <div className="side">
            <form>
 
-            
-
             <Input label="Bill"/>
             <label>Select Tip</label>
             <div className="buttons">
                 <div className="top-buttons">
-                    <div className="green"><Button text="bt1" /></div >
-                    <div className="green"><Button text="bt2" /></div >
-                    <div className="green"><Button text="bt3" /></div>
+                    <div className="green"><Button text="5%" /></div >
+                    <div className="green"><Button text="10%" /></div >
+                    <div className="green"><Button text="15%" /></div>
                 </div>
                 <div className="bottom-buttons">
-                    <div className="green"><Button text="bt4" /></div >
-                    <div className="green"><Button text="bt5" /></div>
-                    <div className="custom"><Button text="bt6" /></div>
+                    <div className="green"><Button text="25%" /></div >
+                    <div className="green"><Button text="50%" /></div>
+                    <div className="custom"><Button text="50%" /></div>
                 </div>
             </div>
     
